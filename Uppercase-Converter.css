@@ -683,3 +683,27 @@ body {
     
     }
 }
+
+@media screen and (max-width: 290px) {
+
+    .title {
+
+        font-size: 1.3em;
+        padding-top: 14px;
+
+    }
+
+    .btn {
+    
+        left: 87%;
+    
+    }
+
+    .fake-copyright {
+
+        height: 30px;
+        font-size: 0.7em;
+        padding-top: 6px;
+    
+    }
+}
