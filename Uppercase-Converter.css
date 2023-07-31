@@ -655,9 +655,10 @@ body {
     .title {
 
         top: 30px;
-        font-size: 1.4em;
+        font-size: 1em;
         padding-top: 11px;
         height: 55px;
+        background-color: red;
 
     }
 
@@ -702,7 +703,7 @@ body {
 
     .title {
 
-        font-size: 1.3em;
+        font-size: 1em;
         padding-top: 14px;
 
     }
