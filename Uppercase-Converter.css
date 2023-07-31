@@ -522,7 +522,7 @@ body {
         font-size: max(7.5vw, 5px);
         width: 91%;
         letter-spacing: 0px;
-        padding-top: 14px;
+        padding-top: 10px;
 
     }
 
@@ -582,7 +582,7 @@ body {
 
     .title {
 
-        font-size: 1.7em;
+        font-size: 1.3em;
         padding-top: 15px;
         width: 90%;
 
@@ -622,7 +622,7 @@ body {
 
     .title {
 
-        font-size: 1em;
+        font-size: 1.6em;
         padding-top: 17px;
 
     }
