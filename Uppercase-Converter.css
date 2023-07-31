@@ -585,6 +585,7 @@ body {
         font-size: 1.7em;
         padding-top: 15px;
         width: 90%;
+        background-color: red;
 
     }
 
@@ -645,8 +646,7 @@ body {
 
     .title {
 
-        font-size: 1em;
-        background-color: red;
+        font-size: 1.5em;
 
     }
 }
@@ -656,7 +656,6 @@ body {
     .title {
 
         top: 30px;
-        font-size: 1.5em;
         padding-top: 11px;
         height: 55px;
 
