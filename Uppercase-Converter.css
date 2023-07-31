@@ -302,9 +302,9 @@ body {
 
     .title {
 
-        font-size: 3.2em;
+        font-size: 3em;
         width: 650px;
-        border-radius: 20px;
+        border-radius: 15px;
     
     }
 
@@ -357,7 +357,7 @@ body {
 
     .title {
 
-        font-size: 2.7em;
+        font-size: 2.5em;
         width: 560px;
         padding-top: 7px;
     
