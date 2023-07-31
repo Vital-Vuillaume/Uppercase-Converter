@@ -16,7 +16,20 @@ body {
     height: 100vh;
     color: white;
     background: radial-gradient(circle, rgba(45,73,168,1) 0%, rgba(18,39,124,1) 100%);
+    opacity: 0;
+    transform:translate(-50px, -50px);
+    animation: apparition 2s ease-out forwards;
 
+}
+
+@keyframes apparition {
+
+  100% {
+
+    opacity: 1;
+    transform: none;
+
+  }
 }
 
 .title {
@@ -32,6 +45,7 @@ body {
     padding-top: 10px;
     border-radius: 30px;
     background: #173184;
+    white-space: nowrap;
     box-shadow: 10px 10px 9px #11235f, -10px -10px 9px #1d3fa9;
 
 }
@@ -684,7 +698,7 @@ body {
     }
 }
 
-@media screen and (max-width: 290px) {
+@media screen and (max-width: 310px) {
 
     .title {
 
