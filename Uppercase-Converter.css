@@ -519,10 +519,10 @@ body {
 
     .title {
 
-        font-size: max(7.5vw, 5px);
+        font-size: 6.6vw;
         width: 91%;
         letter-spacing: 0px;
-        padding-top: 10px;
+        padding-top: 15px;
 
     }
 
