@@ -12,7 +12,7 @@ This project was developed using the following technologies:
 
 ## How to Use the Tool
 
-To access the tool, you can follow this link: [Uppercase-Converter](https://rmbi.ch/vital/uppercase-Cconverter)
+To access the tool, you can follow this link: [Uppercase-Converter](https://rmbi.ch/vital/uppercase-Cconverter/)
 
 1. Enter the text you want to convert in the first input square.
 
