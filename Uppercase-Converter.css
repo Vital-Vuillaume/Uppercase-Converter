@@ -116,7 +116,13 @@ body {
 
 }
 
-::placeholder{
+::placeholder {
+
+    color: white;
+
+}
+
+:-moz-placeholder {
 
     color: white;
 
