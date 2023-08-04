@@ -4,11 +4,9 @@ The Uppercase-Converter project is an online tool that allows you to convert tex
 
 ## Technologies Used
 
-This project was developed using the following technologies:
+**This site was developed using the following technologies:**
 
-- HTML5: Used for the structure and content of the page.
-- CSS3: Used for the layout and design of the interface.
-- JavaScript: Used to add interactive features and perform real-time text conversion.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Vital-Vuillaume)
 
 ## How to Use the Tool
 
