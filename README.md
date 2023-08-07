@@ -16,7 +16,7 @@
 
 - **2. The entered text will automatically be converted to uppercase and displayed in real-time in the second square.**
 
-- **3. You can modify the text in the first square at any time, and the uppercase conversion will be done automatically in the second square.**
+- **3. You can modify the text in the first square at any time, and the uppercase conversion will be done automatically in the second square.*
 
 ## Contribution
 
